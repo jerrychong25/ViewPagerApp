@@ -1,5 +1,13 @@
 # ViewPager App
 
+<p align="center">
+  <img src="ScreenShotMonday.png" alt="View Pager Screenshot Monday"
+       width="300" height="533">
+  <img src="ScreenShotFriday.png" alt="View Pager Screenshot Friday"
+       width="300" height="533">
+</p>
+
+
 ## Getting Started
 
 This mobile app displays a ViewPager with the name of a day of the week on each page, which developed during [Udacity's Android Basics: Multiscreen Apps Course](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839).
