@@ -8,7 +8,7 @@ Built using [Preact CLI](https://github.com/developit/preact-cli).
 npm install -g add preact-cli
 
 # clone this repo
-git clone https://github.com/tomasswood/preact-homepage-generator.git
+git clone https://github.com/jerrychong25/preact-homepage-generator.git
 
 # start a live-reload/HMR dev server:
 npm start
@@ -19,4 +19,4 @@ npm run build
 
 All you need to do is setup your background image[s], modify the `manifest.json` file and edit your `profile.json` file to change the website's content and colours.
 
-[Live Example](https://thomaswood.me/)
+Original Author: [https://thomaswood.me/](Thomas Wood)
