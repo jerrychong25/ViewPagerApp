@@ -19,4 +19,4 @@ npm run build
 
 All you need to do is setup your background image[s], modify the `manifest.json` file and edit your `profile.json` file to change the website's content and colours.
 
-Original Author: [https://thomaswood.me/](Thomas Wood)
+Original Author: [Thomas Wood](https://thomaswood.me/)
