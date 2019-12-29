@@ -1,7 +1,7 @@
 {
     "header": {
-        "title": "Homepage Generator",
-        "subtitle": "Quickly spin up a personal website",
+        "title": "Jerry Chong",
+        "subtitle": "Full Stack Engineer",
         "background_color": "#663AB7",
         "background_image": "newcastle.jpg",
         "background_images": [{
@@ -29,17 +29,21 @@
         "background_color": "#FFF",
         "about": {
             "title": "About me",
-            "description": "I love easy to build pages!"
+            "description": "Experienced full stack engineer in building web apps for more than 3 years."
         },
         "bio": {
             "title": "Bio",
             "list": [{
-                    "label": "How cool?",
-                    "value": "Very cool."
+                    "label": "Name",
+                    "value": "Jerry Chong"
                 },
                 {
-                    "label": "Where",
-                    "value": "In the cloud..."
+                    "label": "City",
+                    "value": "Kuala Lumpur"
+                },
+                {
+                    "label": "Country",
+                    "value": "Malaysia"
                 }
             ]
         }
@@ -47,67 +51,96 @@
     "experience": {
         "title": "Experience",
         "background_color": "#41564E",
-        "list": [{
+        "list": [
+            {
                 "title": "Education",
                 "list": [{
-                    "location": "On my computer",
+                    "location": "Universiti Tunku Abdul Rahman (UTAR)",
                     "time": {
-                        "from": "2017",
-                        "to": "Present"
+                        "from": "2012",
+                        "to": "2016"
                     },
-                    "title": "Building this",
-                    "description": "Quickly spun this up in a day for my own personal website"
+                    "title": "Bachelor of Engineering (Hons) Mechatronics Engineering",
+                    "description": "Accredited by Malaysian Qualification Agency (MQA) and Board of Engineers Malaysia (BEM)"
                 }]
             },
             {
-                "title": "What else?",
+                "title": "Career",
                 "list": [{
-                    "location": "Example",
+                    "location": "Wirecard",
                     "time": {
-                        "from": "Apr 2011",
-                        "to": "Apr 2014"
+                        "from": "Dec 2016",
+                        "to": "Jan 2019"
                     },
-                    "title": "Something else",
-                    "description": "Some more stuff."
-                }, {
-                    "location": "Example",
+                    "title": "Software Engineer, R&D Customer Implementation",
+                    "description": "Design and development of EDC applications."
+                }, 
+                {
+                    "location": "Explosoft",
                     "time": {
-                        "from": "Apr 2014"
+                        "from": "Feb 2016",
+                        "to": "Aug 2019"
                     },
-                    "title": "Something else",
-                    "description": "Some more stuff."
-                }]
+                    "title": "Full Stack Engineer",
+                    "description": "Design and development of Android & iOS mobile apps, and Node.js web apps."
+                },
+                {
+                    "location": "Accenture",
+                    "time": {
+                        "from": "Aug 2019",
+                        "to": "Present"
+                    },
+                    "title": "Digital Business Integration Analyst",
+                    "description": "Design and development of React and Node.js web apps."
+                }
+            ]
             }
         ]
     },
     "skills": {
         "title": "Skills",
         "background_color": "#FFF",
-        "list": [{
-            "label": "Speed",
-            "value": 5
-        }, {
-            "label": "Simplicity",
-            "value": 5
-        }, {
-            "label": "Elegance",
-            "value": 5
-        }, {
-            "label": "Uniqueness",
-            "value": 4
-        }]
+        "list": [
+            {
+                "label": "Node",
+                "value": 5
+            }, 
+            {
+                "label": "Android",
+                "value": 5
+            },
+            {
+                "label": "Postgres",
+                "value": 5
+            },
+            {
+                "label": "Javascript",
+                "value": 4
+            },
+            {
+                "label": "iOS",
+                "value": 3
+            }, 
+            {
+                "label": "Typescript",
+                "value": 3
+            }
+        ]
     },
     "contact": {
         "title": "Any other links?",
         "background_color": "#5DC6DD",
-        "list": [{
-            "label": "Live Example",
-            "link": "http://thomaswood.me/",
-            "icon_class": "globe"
-        }, {
-            "label": "GitHub",
-            "link": "https://github.com/tomasswood/preact-homepage-generator",
-            "icon_class": "github"
-        }]
+        "list": [
+            {
+                "label": "Home Page",
+                "link": "http://jerrychong25.github.io/",
+                "icon_class": "globe"
+            }, 
+            {
+                "label": "GitHub",
+                "link": "https://github.com/jerrychong25",
+                "icon_class": "github"
+            }
+        ]
     }
 }
