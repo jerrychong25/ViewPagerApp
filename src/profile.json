@@ -29,7 +29,7 @@
         "background_color": "#FFF",
         "about": {
             "title": "About me",
-            "description": "Experienced full stack engineer in building web apps for more than 3 years."
+            "description": "Experienced full stack engineer building mobile and web apps since 2015."
         },
         "bio": {
             "title": "Bio",
@@ -73,7 +73,7 @@
                         "to": "Jan 2019"
                     },
                     "title": "Software Engineer, R&D Customer Implementation",
-                    "description": "Design and development of EDC applications."
+                    "description": "Design and development of EDC terminal applications."
                 }, 
                 {
                     "location": "Explosoft",
@@ -102,16 +102,16 @@
         "background_color": "#FFF",
         "list": [
             {
-                "label": "Node",
-                "value": 5
+                "label": "Node.js",
+                "value": 4
             }, 
             {
                 "label": "Android",
-                "value": 5
+                "value": 4
             },
             {
                 "label": "Postgres",
-                "value": 5
+                "value": 4
             },
             {
                 "label": "Javascript",
@@ -124,22 +124,40 @@
             {
                 "label": "Typescript",
                 "value": 3
+            },
+            {
+                "label": "Java",
+                "value": 3
+            },
+            {
+                "label": "C",
+                "value": 3
             }
         ]
     },
     "contact": {
-        "title": "Any other links?",
+        "title": "Contact",
         "background_color": "#5DC6DD",
         "list": [
             {
-                "label": "Home Page",
-                "link": "http://jerrychong25.github.io/",
-                "icon_class": "globe"
+                "label": "jerrychong25@gmail.com",
+                "link": "mailto:jerrychong25@gmail.com",
+                "icon_class": "envelope"
+            },
+            {
+                "label": "LinkedIn",
+                "link": "https://my.linkedin.com/in/chonghf",
+                "icon_class": "linkedin-square"
             }, 
             {
                 "label": "GitHub",
                 "link": "https://github.com/jerrychong25",
                 "icon_class": "github"
+            }, 
+            {
+                "label": "Stack Overflow",
+                "link": "https://stackoverflow.com/users/5918539/jerry-chong",
+                "icon_class": "stack-overflow"
             }
         ]
     }
